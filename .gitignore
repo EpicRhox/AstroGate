@@ -70,5 +70,26 @@ Saved/*
 Intermediate/*
 Plugins/**/Intermediate/*
 
+# Log Files
+*.log
+
+# Binaries
+*.bin
+*.exe
+*.dll
+
+# Engine generation folders (ignores local .ini files)
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+bin/
+obj/
+
 # Cache files for the editor to use
 DerivedDataCache/*
+PIT2_AS3_Starter_2507/Intermediate/
+PIT2_AS3_Starter_2507/Saved/ 
+PIT2_AS3_Starter_2507/DerivedDataCache/
+
+ 
